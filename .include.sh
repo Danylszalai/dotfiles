@@ -8,3 +8,5 @@ export PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\
 
 echo "Welcome to my prompt!"
 echo "Hello world!"
+echo "Welcome to my world!"
+
